@@ -40,6 +40,8 @@ Refer output folder for model (pickle file)
 
 Dataset Source: Financial dataset on Kaggle provided by Edgar Lopez-Rojas (2016). 
 
+Link: https://www.kaggle.com/datasets/ealaxi/paysim1 https://www.researchgate.net/publication/313138956_PAYSIM_A_FINANCIAL_MOBILE_MONEY_SIMULATOR_FOR_FRAUD_DETECTION
+
 Citation: E. A. Lopez-Rojas , A. Elmir, and S. Axelsson. "PaySim: A financial mobile money simulator for fraud detection". In: The 28th European Modeling and Simulation Symposium-EMSS, Larnaca, Cyprus. 2016
 
 
