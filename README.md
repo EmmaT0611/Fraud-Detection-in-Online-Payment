@@ -33,9 +33,9 @@ Refer requirement.txt for libraries and environment setup needed
 
 Refer data folder for datasets
 
-Refer code folder for codes
+Refer Online Payment Fraud detection ML.ipynb for codes
 
-Refer output folder for model (pickle file) 
+Refer fraudetect_model.pkl for model (pickle file) 
 
 
 Dataset Source: Financial dataset on Kaggle provided by Edgar Lopez-Rojas (2016). 
