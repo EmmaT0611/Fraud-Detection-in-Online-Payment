@@ -23,13 +23,16 @@ Objective:
 2. Evaluate machine learning model performance (LR,RF,SVM,XGBoost,Stacking Ensemble)
 
 
-
-STEPS TO REPRODUCE CODE: 
+Steps to reproduce the code: 
 
 Refer requirement.txt for libraries and environment setup needed
+
 Refer data folder for datasets
+
 Refer code folder for codes
+
 Refer output folder for model (pickle file) 
+
 
 
 Author's Note: Cheers!
