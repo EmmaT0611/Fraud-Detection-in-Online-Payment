@@ -1,7 +1,9 @@
 # frauDetection
+
 #PROJECT SUMMARY
 
 Machine learning model training as part of Mini project 3 while studying Data Science and AI at Institute of Data (Singapore).
+
 
 
 
@@ -17,10 +19,12 @@ So, can AI algorithm assist banks to identify and prevent fraudulent activities 
 
 
 
+
 Objective:
 
 1. Obtain insights from dataset relevant to fraud detection
 2. Evaluate machine learning model performance (LR,RF,SVM,XGBoost,Stacking Ensemble)
+
 
 
 Steps to reproduce the code: 
@@ -31,11 +35,12 @@ Refer data folder for datasets
 
 Refer code folder for codes
 
+Refer output folder for model (pickle file) 
+
+
 Dataset Source: Financial dataset on Kaggle provided by Edgar Lopez-Rojas (2016). 
 
 Citation: E. A. Lopez-Rojas , A. Elmir, and S. Axelsson. "PaySim: A financial mobile money simulator for fraud detection". In: The 28th European Modeling and Simulation Symposium-EMSS, Larnaca, Cyprus. 2016
-
-Refer output folder for model (pickle file) 
 
 
 
