@@ -31,6 +31,10 @@ Refer data folder for datasets
 
 Refer code folder for codes
 
+Dataset Source: Financial dataset on Kaggle provided by Edgar Lopez-Rojas (2016). 
+
+Citation: E. A. Lopez-Rojas , A. Elmir, and S. Axelsson. "PaySim: A financial mobile money simulator for fraud detection". In: The 28th European Modeling and Simulation Symposium-EMSS, Larnaca, Cyprus. 2016
+
 Refer output folder for model (pickle file) 
 
 
